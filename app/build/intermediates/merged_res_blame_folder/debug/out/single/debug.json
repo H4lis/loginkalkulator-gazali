@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\drawable_shape.xml.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\drawable\\shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-pngs-28:\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\drawable_rectangle.png.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\drawable\\rectangle.png"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-pngs-28:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\drawable_ic_eye.xml.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\drawable\\ic_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\font_playfairdisplaymedium.ttf.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\font\\playfairdisplaymedium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-pngs-28:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\drawable_asrul.png.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\drawable\\asrul.png"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-pngs-28:\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\drawable_asrulabout.png.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\drawable\\asrulabout.png"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\drawable_baground2.png.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\drawable\\baground2.png"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\font_font.xml.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\font\\font.xml"
+    },
+    {
+        "merged": "com.example.loginkalkulator.app-merged_res-32:/drawable_gazali.png.flat",
+        "source": "com.example.loginkalkulator.app-main-34:/drawable/gazali.png"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\font_playfairdisplaysemibold.ttf.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\font\\playfairdisplaysemibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\drawable_muflih.png.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\drawable\\muflih.png"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\layout_activity_sing_in.xml.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\layout\\activity_sing_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\font_playfairdisplaybold.ttf.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\font\\playfairdisplaybold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-pngs-28:\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-pngs-28:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\layout_activity_kalkulator.xml.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\layout\\activity_kalkulator.xml"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\drawable_baground.png.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\drawable\\baground.png"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\font_playfairdisplayregular.ttf.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\font\\playfairdisplayregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\drawable_gazaliabout.png.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\drawable\\gazaliabout.png"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\drawable_gazali.png.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\drawable\\gazali.png"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-pngs-28:\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    }
+]

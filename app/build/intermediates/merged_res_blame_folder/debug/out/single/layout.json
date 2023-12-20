@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.loginkalkulator.app-mergeDebugResources-31:/layout/activity_kalkulator.xml",
+        "source": "com.example.loginkalkulator.app-main-34:/layout/activity_kalkulator.xml"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-mergeDebugResources-31:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-mergeDebugResources-31:\\layout\\activity_sing_in.xml",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\layout\\activity_sing_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-mergeDebugResources-31:\\layout\\activity_kalkulator.xml",
+        "source": "C:\\Users\\nurha\\.gradle\\daemon\\8.0\\com.example.loginkalkulator.app-main-34:\\layout\\activity_kalkulator.xml"
+    },
+    {
+        "merged": "com.example.loginkalkulator.app-mergeDebugResources-31:/layout/activity_profile.xml",
+        "source": "com.example.loginkalkulator.app-main-34:/layout/activity_profile.xml"
+    }
+]
